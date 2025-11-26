@@ -6,3 +6,4 @@ reportlab
 matplotlib
 seaborn 
 gtts
+deep-translator
