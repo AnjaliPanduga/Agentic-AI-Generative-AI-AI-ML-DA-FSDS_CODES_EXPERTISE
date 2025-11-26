@@ -7,3 +7,4 @@ matplotlib
 seaborn
 gtts
 googletrans==4.0.0-rc1
+httpx
