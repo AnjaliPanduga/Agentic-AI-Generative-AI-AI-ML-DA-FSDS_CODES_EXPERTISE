@@ -7,3 +7,7 @@ matplotlib
 seaborn 
 gtts
 deep-translator
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+pillow
+
